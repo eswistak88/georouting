@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<additional noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+		<location netOffset="-643204.97,-4443514.97" convBoundary="-25259.99,-20447.47,69301.96,44486.01" origBoundary="28.387197,39940794,29.493235,41.001912" projParameter="+proj=utm +zone=35 +ellps=WGS84 +datum=WGS84 +units=m +no_defs" />
+		<poi id="POI7" lat="28.94850583" lon="40.26801039" />
+		<poi id="POI6" lat="28.95600078" lon="40.24977169" />
+		<poi id="POI1" lat="28.95866973" lon="40.25005998" />
+		<poi id="POI3" lat="29.10103485" lon="40.19581042" />
+		<poi id="POI16" lat="28.95674589" lon="40.25225574" />
+		<poi id="POI2" lat="28.95675157" lon="40.25180643" />
+		<poi id="POI13" lat="28.95695608" lon="40.25231752" />
+		<poi id="POI12" lat="28.93824547" lon="40.24531183" />
+		<poi id="POI15" lat="28.98349833" lon="40.19489646" />
+		<poi id="POI14" lat="29.05171619" lon="40.20171494" />
+		<poi id="POI9" lat="28.96738263" lon="40.24484535" />
+		<poi id="POI8" lat="28.95280105" lon="40.25751328" />
+		<poi id="POI11" lat="28.97325472" lon="40.24294397" />
+		<poi id="POI10" lat="28.94970675" lon="40.26795024" />
+		<poi id="POI5" lat="28.96680046" lon="40.24403502" />
+		<poi id="POI4" lat="28.9937719" lon="40.21383317" />
+</additional>

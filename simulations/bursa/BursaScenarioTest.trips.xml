@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generated on 2021-08-25 07:03:50.006465 by $Id$ v1.8.0-0000000000
+  options: -n BursaScenario.net.xml -e 50 -p 10 -o BursaScenarioTest.trips.xml
+-->
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <trip id="0" depart="0.00" from="305889781#4" to="-24758264#2"/>
+    <trip id="1" depart="10.00" from="-337422814" to="-334366670"/>
+    <trip id="2" depart="20.00" from="335885841" to="305986352#27"/>
+    <trip id="3" depart="30.00" from="521538307#4" to="-305746815#8"/>
+    <trip id="4" depart="40.00" from="-680018111" to="-248646093#3"/>
+</routes>

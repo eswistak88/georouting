@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+	<copy file="BursaScenario.net.xml"/>
+	<copy file="BursaScenario.poly.xml"/>
+	<copy file="BursaScenario.rou.xml"/>
+	<copy file="BursaScenario.sumo.cfg" type="config"/>
+	<copy file="gui-settings.cfg.xml"/>
+</launch>
